@@ -1,0 +1,25 @@
+Esta etiqueta se utiliza para indicarle al navegador del visitante que la página se trata de un documento HTML5. 
+
+Cada documento debe contener esta etiqueta para cumplir con el estándar de HTML5.
+
+Display. None
+
+Elemento nulo. Esta etiqueta no debe contener elementos en su interior y no debe contener etiqueta de cierre.
+
+Uso. Estructural.
+
+Ejemplo de la estructura de un documento HTML5 y del uso de la etiqueta <!DOCTYPE html> :
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  
+</body>
+</html>
