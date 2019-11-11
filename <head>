@@ -1,0 +1,29 @@
+Dentro de esta etiqueta se hace referencia a información general o metadatos del documento, titulo de la página, 
+incluyendo scripts y archivos css, head tiene una etiqueta de cierre </head>
+
+Categoría del contenido. Ninguna.
+
+Ejemplo del uso del <head>:
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+
+    <title>Título de la página</title>
+
+    <meta charset="utf-8">
+
+    <meta name="author" content="Neddy">
+
+    <link rel="stylesheet" type="text/css" href="styles.css">
+
+  </head>
+
+  <body>
+
+
+  </body>
+
+</html>
