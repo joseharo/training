@@ -12,12 +12,16 @@ Ejemplo del uso del <head>:
   <head>
 
     <title>Título de la página</title>
+    <!- Contiene el título del documento ->
 
     <meta charset="utf-8">
+    <!- Determinar la codificación del documento ->
 
     <meta name="author" content="Neddy">
+    <!- indica el nombre del autor y el contenido ->
 
     <link rel="stylesheet" type="text/css" href="styles.css">
+    <!- Se indica la referencia a una hoja de estilos ->       
 
   </head>
 
