@@ -1,0 +1,11 @@
+<nav> </nav>
+
+En esta sección se indican los enlaces para la navegación del sitio web, ejemplo:
+
+<nav class="menu">
+  <ul>
+    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Sobre nosotros</a></li>
+    <li><a href="#">Contacto</a></li>
+  </ul>
+</nav>
