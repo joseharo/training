@@ -1,0 +1,13 @@
+La etiqueta <header> </header> se utiliza para mostrar el nombre del sitio, descripción y logotipo, 
+la etiqueta <header> al contener elementos a mostrar en el contenido de la página deberá estar dentro del cuerpo de la
+página o etiqueta <body>.
+
+Ejemplo del uso de <header> </header> :
+
+<body>
+<header>
+     <h1>Mi sitio web</h1>
+     <p>Mi sitio web creado en html5</p>
+</header>
+
+
