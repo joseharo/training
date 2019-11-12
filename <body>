@@ -1,0 +1,11 @@
+Con la etiqueta <body> </body> se delimita el contenido visible de la página, debe tener una etiqueta de cierre.
+
+Algunos elementos dentro de <body> son:
+
+<header> </header>
+
+<section> </section>
+
+<aside> </aside>
+
+<footer> </footer>
