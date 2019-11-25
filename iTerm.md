@@ -1,4 +1,4 @@
-Características de iTerm
+Características de iTerm 
 
 Páneles divididos
 
