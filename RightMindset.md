@@ -1,0 +1,1 @@
+https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/
