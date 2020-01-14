@@ -86,4 +86,4 @@ persona o egoista.
 
 * En una mentalidad en crecimiento el monólogo interno busca información que pueda convertirse en aprendizaje y acción constructiva.  
 
-### Para una mentalidad en crecimiento el éxito personal se alcanza cuando se trabaja para convertirse el mejor, para una mentalidad fija   el éxito consiste en establecer una superioridad pura y sencilla siendo un individuo que es más digno que nadie.  
+### Para una mentalidad en crecimiento el éxito personal se alcanza cuando se trabaja para convertirse en el mejor, para una mentalidad   fija el éxito consiste en establecer una superioridad pura y sencilla siendo un individuo que es más digno que nadie.  
