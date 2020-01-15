@@ -1,0 +1,57 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.quitar-float {  
+  float: none;
+}
+
+.espacio-arriba {
+  margin-top: 100px;
+}
+.pacifico {
+  font-family: 'Pacifico', cursive;
+}
+
+.se-gris {
+  background-color: #eee;
+}
+
+.padding-largo {
+  padding: 5px 10px;
+}
+.grande {
+  font-size: 3em;
+}
+
+.verde {
+  color: #00887C;
+}
+
+.inline-block {
+  float: none;
+  display: inline-block;
+  margin-right: -4px;
+}
+
+.no-lista li {
+  list-style-type: none;
+}
+
+.no-lista {
+  margin: 0px;
+  padding: 0px;
+}
+
+.espacio-derecha {
+  margin-right: 1em;
+}
+
+a, .azul {
+  color: #009FFF;
+}
+
