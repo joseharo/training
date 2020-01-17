@@ -21,6 +21,14 @@ img {
   background-color: #eee;
 }
 
+.mediano {
+  font-size: 1.5em;
+}
+
+.vete-arriba {
+  vertical-align: top;
+}
+
 .padding-largo {
   padding: 5px 10px;
 }
@@ -30,6 +38,18 @@ img {
 
 .verde {
   color: #00887C;
+}
+
+.retraso-1 {
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  animation-delay: 1s;
+}
+
+.retraso-2 {
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  animation-delay: 1.5s;
 }
 
 .inline-block {
